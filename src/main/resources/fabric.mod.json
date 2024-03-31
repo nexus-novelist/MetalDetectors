@@ -3,15 +3,15 @@
 	"id": "metaldetectors",
 	"version": "${version}",
 	"name": "MetalDetectors",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A fabric mod that adds metal detectors",
 	"authors": [
-		"Me!"
+		"Nexus Novelist!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/nexus-novelist/MetalDetectors"
 	},
-	"license": "CC0-1.0",
+	"license": "Mozilla Public License Version 2.0",
 	"icon": "assets/metaldetectors/icon.png",
 	"environment": "*",
 	"entrypoints": {
